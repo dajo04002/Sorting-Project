@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Intersetionsort\bin\Debug\net5.0\Intersetionsort.exe
+C:\Users\Admin\Documents\Intersetionsort\bin\Debug\net5.0\Intersetionsort.deps.json
+C:\Users\Admin\Documents\Intersetionsort\bin\Debug\net5.0\Intersetionsort.runtimeconfig.json
+C:\Users\Admin\Documents\Intersetionsort\bin\Debug\net5.0\Intersetionsort.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Intersetionsort\bin\Debug\net5.0\Intersetionsort.dll
+C:\Users\Admin\Documents\Intersetionsort\bin\Debug\net5.0\ref\Intersetionsort.dll
+C:\Users\Admin\Documents\Intersetionsort\bin\Debug\net5.0\Intersetionsort.pdb
+C:\Users\Admin\Documents\Intersetionsort\obj\Debug\net5.0\Intersetionsort.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Intersetionsort\obj\Debug\net5.0\Intersetionsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Intersetionsort\obj\Debug\net5.0\Intersetionsort.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Intersetionsort\obj\Debug\net5.0\Intersetionsort.AssemblyInfo.cs
+C:\Users\Admin\Documents\Intersetionsort\obj\Debug\net5.0\Intersetionsort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Intersetionsort\obj\Debug\net5.0\Intersetionsort.dll
+C:\Users\Admin\Documents\Intersetionsort\obj\Debug\net5.0\ref\Intersetionsort.dll
+C:\Users\Admin\Documents\Intersetionsort\obj\Debug\net5.0\Intersetionsort.pdb
+C:\Users\Admin\Documents\Intersetionsort\obj\Debug\net5.0\Intersetionsort.genruntimeconfig.cache

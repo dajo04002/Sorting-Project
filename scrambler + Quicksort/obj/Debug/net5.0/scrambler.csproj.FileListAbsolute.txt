@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.exe
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.deps.json
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.runtimeconfig.json
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.runtimeconfig.dev.json
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.dll
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\ref\scrambler.dll
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.pdb
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.AssemblyInfo.cs
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.dll
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\ref\scrambler.dll
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.pdb
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.genruntimeconfig.cache
